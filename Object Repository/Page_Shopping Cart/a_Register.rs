@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Register</name>
+   <tag></tag>
+   <elementGuidId>2a3e4d14-6e85-4bba-834d-c974919c5149</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.dropdown-menu-right li:nth-child(1) .dropdown-item</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' dropdown-menu-right ')]//*[(name() = 'li') and (position() = 1)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' dropdown-item ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Register&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7e2be381-59e7-4ea1-91ad-cec93cbb5cac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://localhost:8080/index.php?route=account/register&amp;language=en-gb</value>
+      <webElementGuid>499cbd7a-e24c-4386-822a-f2c678073b46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item</value>
+      <webElementGuid>33177e93-5534-44b9-b05b-ee52ed8c8f71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Register</value>
+      <webElementGuid>55e97645-90ce-46a5-a52a-6c5b4368f8a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-061aa757ab7c2d69283768844033265c</value>
+      <webElementGuid>61902425-b515-4ea3-a4c0-e3b4669bffe7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' dropdown-menu-right ')]//*[(name() = 'li') and (position() = 1)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' dropdown-item ')]</value>
+      <webElementGuid>3179ac61-8eab-4a95-a1a6-08154b323b2d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' dropdown-menu-right ')]//*[(name() = 'li') and (position() = 1)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' dropdown-item ')]</value>
+      <webElementGuid>dbde4e41-2d7d-425d-8466-9c3d823c371c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://localhost:8080/index.php?route=account/register&amp;language=en-gb' and (text() = 'Register' or . = 'Register')]</value>
+      <webElementGuid>cacdb26f-d5f1-45a7-abd8-ae48475f67ec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

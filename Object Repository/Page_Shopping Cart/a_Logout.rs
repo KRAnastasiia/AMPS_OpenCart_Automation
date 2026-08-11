@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Logout</name>
+   <tag></tag>
+   <elementGuidId>80275802-08fb-47da-b2a8-9ce2d4cc9e5e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.dropdown-menu-right li:nth-child(5) .dropdown-item</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' dropdown-menu-right ')]//*[(name() = 'li') and (position() = 5)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' dropdown-item ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Logout&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a887d222-3839-490c-a291-58e572917ffb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://localhost:8080/index.php?route=account/logout&amp;language=en-gb</value>
+      <webElementGuid>914e2fd3-4948-4b1c-9c89-d7f05ca7ebb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item</value>
+      <webElementGuid>70b31ac9-8b62-4765-a69d-6e6601a37cf2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Logout</value>
+      <webElementGuid>8eca32f7-1cd0-42c9-8ae5-18006dc881cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-3425c5c26dd0ec6ce711d80751e064f7</value>
+      <webElementGuid>b477d0cc-8457-47f2-ba84-c16cda84f23e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' dropdown-menu-right ')]//*[(name() = 'li') and (position() = 5)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' dropdown-item ')]</value>
+      <webElementGuid>4371a3e3-dd0c-494f-9b34-83ea92af15f2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' dropdown-menu-right ')]//*[(name() = 'li') and (position() = 5)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' dropdown-item ')]</value>
+      <webElementGuid>3c40c20b-39dc-4dff-8e4d-71323ff28580</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://localhost:8080/index.php?route=account/logout&amp;language=en-gb' and (text() = 'Logout' or . = 'Logout')]</value>
+      <webElementGuid>6132bde2-8cfc-411a-8a4d-ef4a8023f72e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
